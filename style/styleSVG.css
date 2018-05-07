@@ -1,0 +1,15 @@
+#mySVG {
+	border: 1px solid black;
+	height: 300px;
+	width: 600px;
+}
+
+input{
+	width: 100px;
+}
+
+.com {
+	margin: 10px;
+	display: inline;
+	float:left;
+}

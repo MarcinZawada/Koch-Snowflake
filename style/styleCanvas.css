@@ -1,0 +1,14 @@
+#myCanvas {
+	border: 1px solid black;
+	display: block;
+}
+
+input{
+	width: 100px;
+}
+
+.com {
+	margin: 10px;
+	display: inline;
+	float:left;
+}
